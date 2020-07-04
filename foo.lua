@@ -1,0 +1,1 @@
+/home/james/.local/lib/wireshark/plugins/foo.lua
